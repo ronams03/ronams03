@@ -1,13 +1,13 @@
-<div align="center">
+<h1 align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=28&pause=1000&color=BD93F9&center=true&vCenter=true&width=700&lines=Hi+%F0%9F%91%8B+I'm+Roberth+Namoc;Frontend+Developer+%F0%9F%92%BB;React+%7C+TypeScript+%7C+Next.js;Vibe+Coder+from+the+Philippines+%F0%9F%87%B5%F0%9F%87%AD" alt="Typing SVG" />
+</h1>
 
-# 👾 ROBERTH NAMOC
-### `< Vibe Coder · Frontend Developer · Lifelong Learner />`
-
-**Cagayan de Oro City, Philippines 🇵🇭**
-
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=BD93F9&center=true&vCenter=true&width=600&lines=Frontend+Developer+%F0%9F%92%BB;React+%7C+Next.js+%7C+TypeScript+Enthusiast;Always+learning+something+new+%F0%9F%8C%B1;Let%27s+build+something+awesome!)](https://git.io/typing-svg)
-
-</div>
+<p align="center">
+  <a href="https://twitter.com/roberthpendrin4">
+    <img src="https://img.shields.io/twitter/follow/roberthpendrin4?logo=twitter&style=for-the-badge&color=1DA1F2" />
+  </a>
+  <img src="https://komarev.com/ghpvc/?username=ronams03&label=Profile+Views&color=BD93F9&style=for-the-badge" />
+</p>
 
 ---
 
@@ -15,15 +15,14 @@
 
 ```js
 const roberth = {
-  name:       "Roberth Namoc",
-  alias:      "ronams03",
-  location:   "Cagayan de Oro City, Philippines 🇵🇭",
-  role:       "Frontend Developer & Vibe Coder",
-  learning:   "Everything about Programming Languages",
-  email:      "kristinedais01@gmail.com",
-  github:     "https://github.com/ronams03",
-  funFact:    "I vibe while I code 🎧",
-  openTo:     ["team projects", "open source", "collabs"],
+  name:      "Roberth Namoc",
+  location:  "Cagayan de Oro City, Philippines 🇵🇭",
+  role:      "Frontend Developer",
+  learning:  "Everything about programming languages",
+  funFact:   "I vibe while I code 🎧",
+  email:     "kristinedais01@gmail.com",
+  github:    "https://github.com/ronams03",
+  openTo:    ["team projects", "open source", "collabs"],
 };
 ```
 
@@ -31,35 +30,35 @@ const roberth = {
 
 ## 🚀 What I'm Up To
 
-- 🔭 &nbsp;Currently exploring **many project ideas** and building cool things
-- 🌱 &nbsp;Always leveling up — learning **everything** about programming languages
-- 👯 &nbsp;Love **team collaboration** — two brains (or more!) are better than one
-- 🤝 &nbsp;Proudly a **Vibe Coder** — coding with flow & creativity
-- 💬 &nbsp;Ask me about **anything frontend, web dev, or beyond**
-- 📫 &nbsp;Reach me at **kristinedais01@gmail.com**
+- 🔭 &nbsp;Currently working on many exciting project ideas
+- 🌱 &nbsp;Always learning — **everything** about programming languages
+- 👯 &nbsp;Love **team collaboration** — let's build something together
+- 🤝 &nbsp;Proudly a **Vibe Coder** — coding with flow and creativity
+- 💬 &nbsp;Ask me about **anything frontend or web dev**
+- 📫 &nbsp;Reach me: **kristinedais01@gmail.com**
 
 ---
 
 ## 🛠️ Tech Stack
 
-### 💻 Languages
-<p align="left">
+**Languages**
+<p>
   <img src="https://skillicons.dev/icons?i=js,ts,python,cs,c,cpp,dart,java,kotlin,swift,php" />
 </p>
 
-### 🎨 Frontend & Frameworks
-<p align="left">
+**Frontend & Frameworks**
+<p>
   <img src="https://skillicons.dev/icons?i=react,nextjs,vue,html,css,bootstrap,tailwind,flutter" />
 </p>
 
-### ⚙️ Backend, Tools & Cloud
-<p align="left">
-  <img src="https://skillicons.dev/icons?i=nodejs,express,firebase,gcp,mysql,postgres,mongodb,git" />
+**Backend, Tools & Cloud**
+<p>
+  <img src="https://skillicons.dev/icons?i=nodejs,express,firebase,gcp,mysql,postgres,mongodb,git,figma,linux,postman,electron" />
 </p>
 
-### 🎮 Design & Misc
-<p align="left">
-  <img src="https://skillicons.dev/icons?i=figma,blender,unity,unreal,arduino,linux,postman,electron" />
+**Game & Creative**
+<p>
+  <img src="https://skillicons.dev/icons?i=unity,unreal,blender,arduino" />
 </p>
 
 ---
@@ -67,65 +66,51 @@ const roberth = {
 ## 📊 GitHub Stats
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=ronams03&show_icons=true&theme=dracula&include_all_commits=true&count_private=true&hide_border=true&rank_icon=github" height="165" />
+  <img src="https://github-readme-stats.vercel.app/api?username=ronams03&show_icons=true&theme=dracula&include_all_commits=true&count_private=true&hide_border=true" height="165" />
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=ronams03&layout=compact&theme=dracula&hide_border=true&langs_count=6" height="165" />
 </div>
 
 <div align="center">
-  <img src="https://streak-stats.demolab.com?user=ronams03&theme=dracula&hide_border=true&border_radius=5" height="150" />
+  <img src="https://streak-stats.demolab.com?user=ronams03&theme=dracula&hide_border=true" height="150" />
 </div>
 
 <div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=ronams03&theme=dracula&no-frame=true&no-bg=false&margin-w=8&row=1" />
+  <img src="https://github-profile-trophy.vercel.app/?username=ronams03&theme=dracula&no-frame=true&margin-w=8&row=1" />
 </div>
 
 ---
 
 ## 🐍 Contribution Graph
 
-<div align="center">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/ronams03/ronams03/output/pacman-contribution-graph-dark.svg">
-    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/ronams03/ronams03/output/pacman-contribution-graph.svg">
-    <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/ronams03/ronams03/output/pacman-contribution-graph.svg">
-  </picture>
-</div>
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/ronams03/ronams03/output/pacman-contribution-graph-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/ronams03/ronams03/output/pacman-contribution-graph.svg">
+  <img alt="Pacman contribution graph" src="https://raw.githubusercontent.com/ronams03/ronams03/output/pacman-contribution-graph.svg">
+</picture>
+
+> ⚠️ To activate the pacman graph, add a GitHub Action — see [Platane/snk](https://github.com/Platane/snk)
 
 ---
 
-## 🌐 Let's Connect
+## 🌐 Connect With Me
 
-<div align="center">
-
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/ronams03)
-[![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?style=for-the-badge&logo=Twitter&logoColor=white)](https://twitter.com/roberthpendrin4)
-[![Dev.to](https://img.shields.io/badge/dev.to-0A0A0A?style=for-the-badge&logo=devdotto&logoColor=white)](https://dev.to/dev.quadratic03)
-[![Discord](https://img.shields.io/badge/Discord-%237289DA.svg?style=for-the-badge&logo=discord&logoColor=white)](https://discord.com)
-[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:kristinedais01@gmail.com)
-[![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?style=for-the-badge&logo=YouTube&logoColor=white)](https://youtube.com)
-
-</div>
+<p align="center">
+  <a href="https://twitter.com/roberthpendrin4"><img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" /></a>
+  <a href="https://dev.to/dev.quadratic03"><img src="https://img.shields.io/badge/dev.to-0A0A0A?style=for-the-badge&logo=devdotto&logoColor=white" /></a>
+  <a href="mailto:kristinedais01@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
+  <a href="https://github.com/ronams03"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" /></a>
+</p>
 
 ---
 
 ## ☕ Support My Work
 
-<div align="center">
-
-If you enjoy my projects and want to support me:
-
-[![Buy Me A Coffee](https://img.shields.io/badge/Buy%20Me%20a%20Coffee-ffdd00?style=for-the-badge&logo=buy-me-a-coffee&logoColor=black)](https://www.buymeacoffee.com)
-[![Ko-fi](https://img.shields.io/badge/Ko--fi-F16061?style=for-the-badge&logo=ko-fi&logoColor=white)](https://ko-fi.com)
-[![PayPal](https://img.shields.io/badge/PayPal-00457C?style=for-the-badge&logo=paypal&logoColor=white)](https://paypal.me/roberthPendringuez)
-
-</div>
+<p align="center">
+  <a href="https://paypal.me/roberthPendringuez">
+    <img src="https://img.shields.io/badge/PayPal-00457C?style=for-the-badge&logo=paypal&logoColor=white" />
+  </a>
+</p>
 
 ---
 
-<div align="center">
-
-![Profile Views](https://komarev.com/ghpvc/?username=ronams03&label=Profile+Views&color=BD93F9&style=flat)
-
-**✨ Thanks for visiting! Let's build something amazing together. ✨**
-
-</div>
+<p align="center"><em>✨ Thanks for visiting — let's build something amazing together! ✨</em></p>
