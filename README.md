@@ -40,7 +40,6 @@
 <tr>
 <td width="55%">
 
-##typescript
 
 interface IVibeCoder {
   name: string;
