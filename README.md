@@ -41,7 +41,7 @@
 <td width="55%">
 
 
-interface IVibeCoder {
+interfaceVibeCoder {
   name: string;
   title: string;
   location: string;
